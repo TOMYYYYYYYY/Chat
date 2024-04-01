@@ -32,6 +32,7 @@ function hide() {
   
   
 }
+/*
 function sendSugestion(msg) {
   if (running == true) return;
   running = true;
@@ -41,7 +42,7 @@ function sendSugestion(msg) {
   window.setTimeout(addResponseMsg, 200, "(Thinking...)");
   
 }
-
+*/
 
 function send() {
   if (running == true) return;
